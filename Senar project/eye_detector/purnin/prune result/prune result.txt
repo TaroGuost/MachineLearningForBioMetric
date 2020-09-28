@@ -1,0 +1,66 @@
+Epoch 1/4
+16/19 [========================>.....] - ETA: 0s - loss: 0.3343 - accuracy: 0.8562INFO:tensorflow:Summary name prune_low_magnitude_conv2d_77_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_77_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_78_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_78_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_79_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_79_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_80_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_80_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_51_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_51_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_52_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_52_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_53_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_53_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_77_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_77_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_78_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_78_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_79_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_79_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_80_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_80_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_51_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_51_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_52_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_52_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_53_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_53_2/threshold_0/threshold instead.
+19/19 [==============================] - 1s 30ms/step - loss: 0.3055 - accuracy: 0.8770 - val_loss: 1.3015 - val_accuracy: 0.7619
+Epoch 2/4
+16/19 [========================>.....] - ETA: 0s - loss: 0.2030 - accuracy: 0.9250INFO:tensorflow:Summary name prune_low_magnitude_conv2d_77_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_77_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_78_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_78_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_79_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_79_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_80_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_80_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_51_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_51_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_52_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_52_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_53_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_53_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_77_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_77_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_78_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_78_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_79_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_79_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_80_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_80_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_51_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_51_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_52_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_52_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_53_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_53_2/threshold_0/threshold instead.
+19/19 [==============================] - 0s 15ms/step - loss: 0.2201 - accuracy: 0.9091 - val_loss: 0.2082 - val_accuracy: 1.0000
+Epoch 3/4
+16/19 [========================>.....] - ETA: 0s - loss: 0.1583 - accuracy: 0.9500INFO:tensorflow:Summary name prune_low_magnitude_conv2d_77_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_77_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_78_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_78_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_79_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_79_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_80_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_80_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_51_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_51_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_52_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_52_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_53_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_53_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_77_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_77_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_78_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_78_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_79_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_79_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_80_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_80_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_51_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_51_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_52_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_52_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_53_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_53_2/threshold_0/threshold instead.
+19/19 [==============================] - 0s 16ms/step - loss: 0.1633 - accuracy: 0.9465 - val_loss: 1.0616 - val_accuracy: 0.8571
+Epoch 4/4
+16/19 [========================>.....] - ETA: 0s - loss: 0.1263 - accuracy: 0.9563INFO:tensorflow:Summary name prune_low_magnitude_conv2d_77_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_77_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_78_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_78_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_79_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_79_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_80_2/mask:0/sparsity is illegal; using prune_low_magnitude_conv2d_80_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_51_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_51_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_52_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_52_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_53_2/mask:0/sparsity is illegal; using prune_low_magnitude_dense_53_2/mask_0/sparsity instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_77_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_77_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_78_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_78_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_79_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_79_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_conv2d_80_2/threshold:0/threshold is illegal; using prune_low_magnitude_conv2d_80_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_51_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_51_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_52_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_52_2/threshold_0/threshold instead.
+INFO:tensorflow:Summary name prune_low_magnitude_dense_53_2/threshold:0/threshold is illegal; using prune_low_magnitude_dense_53_2/threshold_0/threshold instead.
+19/19 [==============================] - 0s 20ms/step - loss: 0.1164 - accuracy: 0.9626 - val_loss: 0.3053 - val_accuracy: 0.9524
+Test loss: 0.06355617940425873
+Test accuracy: 0.9523809552192688
